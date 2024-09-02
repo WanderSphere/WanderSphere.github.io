@@ -1,7 +1,7 @@
 # Site
-name: "Ninggra Ingga"
-title: "Ninggra Ingga"
-description: "Discover the world's Hidden Vacation Gems"
+name: "WanderSphere"
+title: "WanderSphere"
+description: "Where Every Journey Begins"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: /
@@ -48,7 +48,7 @@ jekyll-archives:
     category: '/category/:name/'
     
 # Pagination 
-paginate: 4
+paginate: 10
 paginate_path: /page:num/
     
 # Other
